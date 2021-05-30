@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Shopware Slack - the community chat
+    url: https://slack.shopware.com
+    about: Before creating a new support question, you may want to reach the community chat (Channel #friendsofshopware)
