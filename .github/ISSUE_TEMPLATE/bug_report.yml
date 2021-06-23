@@ -1,0 +1,27 @@
+name: Bug report 🐛
+description: Existing feature does not behave as expected.
+labels: [kind/bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: input
+    id: php-version
+    attributes:
+      label: PHP Version
+    validations:
+      required: false
+  - type: input
+    id: shopware-version
+    attributes:
+      label: Shopware Version
+    validations:
+      required: false
+  - type: reproduce
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to Reproduce?
+      description: Tell us what you did done to get the bug
+    validations:
+      required: true
