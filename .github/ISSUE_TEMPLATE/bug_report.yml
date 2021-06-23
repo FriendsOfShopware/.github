@@ -18,7 +18,7 @@ body:
       label: Shopware Version
     validations:
       required: false
-  - type: input
+  - type: textarea
     id: steps-to-reproduce
     attributes:
       label: Steps to Reproduce?
