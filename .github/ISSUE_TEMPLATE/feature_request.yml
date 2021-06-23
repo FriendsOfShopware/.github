@@ -1,0 +1,7 @@
+name: Feature request 🚀
+description: I have a suggestion about a new feature (and may want to implement it)!
+labels: [kind/feature request]
+body:
+  - type: textarea
+    attributes:
+      label: Please describe the feature you would like to see implemented.
