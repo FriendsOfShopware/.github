@@ -1,0 +1,7 @@
+name: Support question ❓
+description: You have a question about how it works or how to use it.
+labels: [kind/question]
+body:
+  - type: textarea
+    attributes:
+      label: Question
