@@ -18,6 +18,12 @@ body:
       label: Shopware Version
     validations:
       required: false
+  - type: input
+    id: plugin-version
+    attributes:
+      label: Plugin Version
+    validations:
+      required: false
   - type: textarea
     id: actual-behaviour
     attributes:
